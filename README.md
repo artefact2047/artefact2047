@@ -1,6 +1,6 @@
-<img src="Menger.png" width="187" height="187">
+<img src="Menger.png" width="215">
 
-### A&nbsp;&nbsp;R&nbsp;&nbsp;T&nbsp;&nbsp;E&nbsp;&nbsp;F&nbsp;&nbsp;A&nbsp;&nbsp;C&nbsp;&nbsp;T—2&nbsp;&nbsp;0&nbsp;&nbsp;4&nbsp;&nbsp;7
+### A&nbsp;R&nbsp;T&nbsp;E&nbsp;F&nbsp;A&nbsp;C&nbsp;T—2&nbsp;0&nbsp;4&nbsp;7
 
 ---
 
@@ -182,13 +182,13 @@ It shows that “the ends justify the means” has become ambient culture. Corpo
 
 ## Epilogue
 
-You are in the middle of nowhere because the map was redrawn while you were busy living. The breakaway order did not simply build different machinery; it trained different morals. The bot-filled feed is merely the mirror. The real story is upstream: secret budgets, sovereign immunity, entrainment, and a public deal that was permitted to die. From that vantage point, the two scenarios do not appear as science fiction. They look like the next two checkboxes — unless enough people refuse to be boxes at all.
+You are in the middle of nowhere because the map was redrawn while you were busy living. The breakaway order did not simply build different machinery; it trained different morals. The bot-filled feed is merely the mirror. The real story is upstream: secret budgets, sovereign immunity, entrainment, and a public deal that was permitted to die. From that vantage point, the two scenarios do not appear as science fiction. They look like the next two checkboxes, unless enough people refuse to be boxes at all.
 
 ---
 
-<img src="Base-mesh-Text.gif" width="187">
+<img src="Base-mesh-Text.gif" width="215">
 
-A&nbsp;&nbsp;R&nbsp;&nbsp;T&nbsp;&nbsp;E&nbsp;&nbsp;F&nbsp;&nbsp;A&nbsp;&nbsp;C&nbsp;&nbsp;T—2&nbsp;&nbsp;0&nbsp;&nbsp;4&nbsp;&nbsp;7
+### A&nbsp;R&nbsp;T&nbsp;E&nbsp;F&nbsp;A&nbsp;C&nbsp;T—2&nbsp;0&nbsp;4&nbsp;7
 
 ---
 
