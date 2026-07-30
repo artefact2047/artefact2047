@@ -1,6 +1,6 @@
 <img src="Menger.png" width="160" height="160">
 
-A R T E F A C T—2 0 4 7
+ A R T E F A C T—2 0 4 7
 
 ## Lost in the Middle of Nowhere.
 
