@@ -270,9 +270,9 @@ You are in the middle of nowhere because the map was redrawn while you were busy
 
 - **Cambridge Analytica (2016).** First large-scale use of psychometric targeting in politics. Data became a weapon, elections became behavioural experiments.
 
-- **Vault 7 (2017).** WikiLeaks revealed CIA’s toolkit — turning smart TVs into microphones, false-flag cyber capabilities.
-
 - **QAnon (2016→).** A low-craft version of Cicada-style gamification, designed for mass disinformation and populist manipulation.
+
+- **Vault 7 (2017).** WikiLeaks revealed CIA’s toolkit — turning smart TVs into microphones, false-flag cyber capabilities.
 
 *Additional context:* This is the Network stage, where recruitment games, disinformation, and mass obedience models converged.
 
