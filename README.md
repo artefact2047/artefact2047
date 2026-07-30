@@ -188,9 +188,9 @@ You are in the middle of nowhere because the map was redrawn while you were busy
 
 ---
 
-<img src="Base-mesh-Text.gif" width="165" height="156">
+<img src="Base-mesh-Text.gif" width="187">
 
-A R T E F A C T—2 0 4 7
+A&nbsp;&nbsp;R&nbsp;&nbsp;T&nbsp;&nbsp;E&nbsp;&nbsp;F&nbsp;&nbsp;A&nbsp;&nbsp;C&nbsp;&nbsp;T—2&nbsp;&nbsp;0&nbsp;&nbsp;4&nbsp;&nbsp;7
 
 ## Timeline of Psyops.
 
