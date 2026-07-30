@@ -1,4 +1,4 @@
-<img src="Menger.png" width="160" height="160">
+<img src="Menger.png" width="170" height="170">
 
 A&nbsp;&nbsp;R&nbsp;&nbsp;T&nbsp;&nbsp;E&nbsp;&nbsp;F&nbsp;&nbsp;A&nbsp;&nbsp;C&nbsp;&nbsp;T—2&nbsp;&nbsp;0&nbsp;&nbsp;4&nbsp;&nbsp;7
 
