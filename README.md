@@ -51,19 +51,11 @@ That disorientation is the point of this missive. It traces how a clandestine ma
 
 ## I. The temple: build a second system behind the first
 
-## Legal scaffolding
-
 After the Second World War, secrecy authorities created a parallel operating system. Contracts, programmes, and money flows were enabled off-books and off-ledger. The model was simple: keep the legacy system running while you stood up the new one, then migrate resources across.
-
-## Black budgets and endowments
 
 By the mid-2010s, “undocumentable adjustments” running to tens of trillions were being discussed not as accounting errors but as a funding stream for a new governance stack: advanced technology, space and underground infrastructure, and “invisible weaponry.” This meant the collapse of the public system was not required — the people themselves could collapse in its place.
 
-## Sovereign-immunity plumbing
-
 The plumbing for this shadow system ran through institutions with special legal shields — central banks, treaty bodies, and international organisations — able to warehouse and redeploy value and data outside nation-state law. That meta-structure allowed money and information to move in the dark while policy appeared in the light.
-
-## The control grid checklist
 
 - High-precision digital identification
 
@@ -72,8 +64,6 @@ The plumbing for this shadow system ran through institutions with special legal 
 - A behaviour-shaping social-credit layer
 
 All fused with industrial-scale data aggregation and private artificial intelligence.
-
-## How to know what is “really” happening
 
 Ignore the rhetoric. Track time and money. Who spends how many hours and how many pounds or dollars on what. That ledger cuts through narrative to reveal intent.
 
@@ -90,8 +80,6 @@ Psychologically, this is classic gaslighting at scale. When official stories and
 ## III. The public deal: mathematics that ate the middle
 
 On the surface economy, the unspoken contract between companies and workers decayed. The company town once gave stability and reciprocity; today the town is a disposable line item in a portfolio. The old bargain — “show up, work hard, secure a life” — evaporated without ceremony.
-
-## R > G explained:
 
 - **R** = return on capital (profits from assets, investments, ownership).
 
@@ -123,8 +111,6 @@ Psychologically, each rung trains seeking systems (dopamine), in-group cohesion 
 
 The “dead internet” is not an outcome of specific crises. It is evidence that the breakaway mentality — instrumental, impunitive, ends-over-means — has bled into the zeitgeist and become normalised.
 
-## Mechanics include:
-
 - Industrial bot-farms and AI-generated articles for advertising arbitrage
 
 - Synthetic comments and engagement metrics
@@ -134,8 +120,6 @@ The “dead internet” is not an outcome of specific crises. It is evidence tha
 - User counts padded; actual human activity far lower than claimed
 
 The effect is a Truman Show public square: you believe you are speaking to people, but in reality discourse is managed by corporate and state systems.
-
-## Psychological consequences:
 
 - **Moral disengagement:** “It is just growth hacking” turns deception into standard practice.
 
