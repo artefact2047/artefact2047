@@ -1,5 +1,4 @@
 <pre>
-A&nbsp;R&nbsp;T&nbsp;E&nbsp;F&nbsp;A&nbsp;C&nbsp;T—2&nbsp;0&nbsp;4&nbsp;7
 │
 ├── <a href="./Publications">Publications</a>
 │   ├── <a href="./Publications/White_Papers">White Papers</a>
