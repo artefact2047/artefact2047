@@ -19,7 +19,7 @@ A&nbsp;R&nbsp;T&nbsp;E&nbsp;F&nbsp;A&nbsp;C&nbsp;T—2&nbsp;0&nbsp;4&nbsp;7
 <img src="Menger.png" width="225">
 
 ## A&nbsp;R&nbsp;T&nbsp;E&nbsp;F&nbsp;A&nbsp;C&nbsp;T—2&nbsp;0&nbsp;4&nbsp;7
-### What has happened to humanity?
+### What happened to humanity?
 
 ---
 
